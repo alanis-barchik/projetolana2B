@@ -1,0 +1,8 @@
+:root {
+    --cor-de-fundo:rgb(159, 159, 224);
+    --cabeçalho-principal: black;
+    --cor-da-fonte: white;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
