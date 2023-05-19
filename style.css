@@ -3,6 +3,21 @@
     --cabeçalho-principal: black;
     --cor-da-fonte: white;
 }
-body {
+
+
+
+body{
     background-color: var(--cor-de-fundo);
+}
+
+h1{
+    color: aliceblue;
+}
+
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-aling: center;
 }
